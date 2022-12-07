@@ -17,7 +17,7 @@ Simply open the project in GitHub pages.
 
 Here is the [link](https://waldenlight.github.io/horiseon-accessibility/)
 
-You should see this: ![](image.png)
+You should see this: ![](![image](https://user-images.githubusercontent.com/76961678/206305448-5b1a85b3-c3dd-4e72-a52e-cc54be1074a9.png))
 
 ## Credits
 
