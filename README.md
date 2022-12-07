@@ -14,6 +14,7 @@ Open in GitHub pages
 ## Usage
 
 Simply open the project in GitHub pages.
+[link](https://waldenlight.github.io/horiseon-accessibility/)
 
 ## Credits
 
