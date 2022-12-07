@@ -14,8 +14,10 @@ Open in GitHub pages
 ## Usage
 
 Simply open the project in GitHub pages.
+
 Here is the [link](https://waldenlight.github.io/horiseon-accessibility/)
-You should see this:
+
+You should see this: ![](image.png)
 
 ## Credits
 
