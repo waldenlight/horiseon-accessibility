@@ -114,7 +114,8 @@ main {
     color: #ffffff;
 }
 
-.benefit-content h3 {
+/* Changed all h3s to h2s as they are their own sections as oppose to subsections */
+.benefit-content h2 {
     margin-bottom: 10px;
     text-align: center;
 }
