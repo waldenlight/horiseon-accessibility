@@ -16,7 +16,7 @@ Open in GitHub pages
 Simply open the project in GitHub pages.
 Here is the [link](https://waldenlight.github.io/horiseon-accessibility/)
 You should see this:
-[Image of the repo on GitHub pages](https://courses.bootcampspot.com/courses/2841/files/2341767/preview)
+![Image of the repo on GitHub pages](https://courses.bootcampspot.com/courses/2841/files/2341767/preview)
 
 ## Credits
 
